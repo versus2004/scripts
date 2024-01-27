@@ -1,5 +1,8 @@
 #!/bin/sh
 
+
+
+
 # variables
 VOSK_MODEL_PATH="$HOME/Downloads/vosk-model-small-en-in-0.4/"
 INVIDIOUS_INSTANCE="https://vid.puffyan.us" # some instances might not work
