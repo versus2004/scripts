@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # variables
-VOSK_MODEL_PATH="$HOME/Downloads/vosk-model-small-en-in-0.4/"
+VOSK_MODEL_PATH="$HOME/Downloads/vosk-model-small-hi-0.22"
 INVIDIOUS_INSTANCE="https://vid.puffyan.us" # some instances might not work
 
 # stop current song, clear playlist
