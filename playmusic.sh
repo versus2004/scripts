@@ -6,7 +6,6 @@ INVIDIOUS_INSTANCE="https://vid.puffyan.us" # some instances might not work
 mpc stop
 mpc clear
 
-# take mic input
 ffmpeg -y -f alsa -i default -acodec pcm_s16le -ac 1 -ar 44100 -t 4 -f wav ~/scriptss/playmusic/tmp.wav
 
 
