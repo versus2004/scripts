@@ -15,6 +15,9 @@ vosk-transcriber -m $VOSK_MODEL_PATH -i ~/scriptss/playmusic/tmp.wav -o ~/script
 read audio_input < ~/scriptss/playmusic/data.txt
 
 
+
+
+
 # Audio confirmation notification
 google_speech " All right.. let me play.. $audio_input" &
 
