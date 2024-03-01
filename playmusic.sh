@@ -1,3 +1,7 @@
+
+
+
+
 #!/bin/sh
 # variables
 VOSK_MODEL_PATH="$HOME/Downloads/vosk-model-small-hi-0.22"
